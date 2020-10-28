@@ -1,0 +1,68 @@
+    
+#bodybg {
+    background-image: url(imagens/fundo.png);
+}
+
+#content {
+
+   width: 900px;
+   position: relative;
+   left: 27%;   
+   border: solid none;
+   justify-content: center;
+}
+
+
+#menu {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background:#c5c5b2;
+}
+
+#top {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#sobre {
+    
+
+    align-items: center;
+    background: #e8e8d9; 
+    padding: 5px;
+    font-size: 16px;
+    
+}
+
+#rodape {
+    margin: 10px;
+    text-align: center;
+}
+
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
+    position: relative;
+    left: 13%;
+}
+
+a {
+    color: #565e6e;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 1px 70px;
+    
+
+}
+
+h1 {
+    color: #828271;
+    font-size: 25px;
+    padding-right: 2px;
+}
